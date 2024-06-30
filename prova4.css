@@ -1,0 +1,32 @@
+.palm{
+    border: green solid 2px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.inter{
+    border: red solid 2px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.flum{
+    border: green solid 2px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.cori{
+    border: black solid 2px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+}
